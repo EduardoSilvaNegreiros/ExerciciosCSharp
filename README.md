@@ -1,6 +1,6 @@
 # Exercícios Práticos de C# - Exercism.org
 
-Este repositório contém minhas soluções para os exercícios práticos da plataforma [Exercism.org](https://exercism.org/).  
+Este repositório contém minhas soluções pessoais para os exercícios práticos da plataforma [Exercism.org](https://exercism.org/).  
 
 O objetivo deste repositório é documentar meu aprendizado e praticar os conhecimentos em *C#* através da resolução dos desafios propostos na plataforma.  
 
